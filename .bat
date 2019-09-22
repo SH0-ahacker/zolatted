@@ -66,6 +66,19746 @@ echo: 1%
 cls
 echo: 1%
 cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 1%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
+echo: 2%
+cls
 echo: 2%
 cls
 echo: 2%
@@ -2270,6 +22010,10926 @@ cls
 echo: loading program.
 cls
 echo: loading program.
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
+cls
+echo: openning' program(configurations)
 cls
 echo: openning' program(configurations)
 cls
