@@ -1,2 +1,2 @@
 # zolatted
-a joke program created with powershell
+a joke program created with batchfile
