@@ -2240,801 +2240,399 @@ cls
 100%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 pause
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: loading program.
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
-cls
-opening' zolatted.
+echo: openning' program(configurations)
 cls
 echo: opened with sucesffly!
 pause
