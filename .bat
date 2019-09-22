@@ -55056,3 +55056,6 @@ start https://br.search.yahoo.com/search;_ylt=AwrE18kg5YddoXYANALz6Qt.;_ylc=X1MD
 start https://www.youtube.com/watch?v=y2GGx4HwH8U
 start https://www.youtube.com/watch?v=9l2L9f9hX9M
 start https://www.youtube.com/watch?v=9l2L9f9hX9M
+start https://media1.tenor.com/images/3694f7a223caa7623beca5bae27462a5/tenor.gif
+start https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXjeTqtOXkAhVjFLkGHVeAAmsQjRx6BAgBEAQ&url=https%3A%2F%2Fimgflip.com%2Ftag%2Fdo%2520you%2520know%2520the%2520way%3Fpage%3D2&psig=AOvVaw21Z4bYq8TLFieFwL46wcon&ust=1569275464881073
+start https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjjs_aEteXkAhXAHbkGHW-MCuUQjRx6BAgBEAQ&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fmocking-spongebob&psig=AOvVaw21Z4bYq8TLFieFwL46wcon&ust=1569275464881073
