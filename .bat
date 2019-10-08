@@ -31,9 +31,6 @@ Goto 1
 :End
 Color a0
 Echo.
-Echo FINISH!
-echo.
-Pause
 
 Set n=0
 :1
@@ -81,3 +78,4694 @@ start https://blogcdn.123rf.com/wp-content/uploads/2018/07/3.jpg
 start https://www.youtube.com/watch?v=OKnf2uhZjA4
 start https://www.youtube.com/watch?v=OKnf2uhZjA4
 start https://www.youtube.com/watch?v=DuVqZBeYTl8
+echo: hahahaha
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+call mouse moveBy 100x100
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+start calc.exe
+cmd
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+start calc.exe
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+wiaacmgr
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+control printers
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+charmap
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+mspaint
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+powerpnt
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+notepad
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+magnify
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+eudcedit
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+start https://google.com.br
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:_-ç
+ECHO:_-8
+ECHO:_-%%
+ECHO:_$$$
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:__________________________ __________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:____ ________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:_______________________ _____________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO: ____________________________________________
+cls
+ECHO:   .                     .                    
+ECHO: .'|                   .'|                    
+ECHO:<  |                  <  |                    
+ECHO: | |             __    | |             __     
+ECHO: | | .'''-.   .:--.'.  | | .'''-.   .:--.'.  
+ECHO: | |/.'''. \ / |   \ | | |/.'''. \ / |   \ |  
+ECHO: |  /    | | `" __ | | |  /    | | `" __ | |  
+ECHO: | |     | |  .'.''| | | |     | |  .'.''| |  
+ECHO: | |     | | / /   | |_| |     | | / /   | |_ 
+ECHO: | '.    | '.\ \._,\ '/| '.    | '.\ \._,\ '/ 
+ECHO: '---'   '---'`--'  `" '---'   '---'`--'  `"  
+ECHO:___________________________________________ _
+cls
+ECHO:HAHAHAAHAHAAH
+notepad
+notepad
+notepad
+notepad
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+notepad 
+MOV AX,0
+
+INT 33H ;Reset mouse
+
+MOV AX,1
+
+INT 33H ;Show the cursor 
+
+MOV AX,4 ;Position mouse cursor function
+
+MOV CX,1 ;Column *8 in mode 3
+
+MOV DX,1 ;Row *8 in mode 3
+
+INT 33H ;
+MOV AX,0
+
+INT 33H ;Reset mouse
+
+MOV AX,1
+
+INT 33H ;Show the cursor 
+
+MOV AX,4 ;Position mouse cursor function
+
+MOV CX,1 ;Column *8 in mode 3
+
+MOV DX,1 ;Row *8 in mode 3
+
+INT 33H ;
+MOV AX,0
+
+INT 33H ;Reset mouse
+
+MOV AX,1
+
+INT 33H ;Show the cursor 
+
+MOV AX,4 ;Position mouse cursor function
+
+MOV CX,1 ;Column *8 in mode 3
+
+MOV DX,1 ;Row *8 in mode 3
+
+INT 33H ;
+MOV AX,0
+
+INT 33H ;Reset mouse
+
+MOV AX,1
+
+INT 33H ;Show the cursor 
+
+MOV AX,4 ;Position mouse cursor function
+
+MOV CX,1 ;Column *8 in mode 3
+
+MOV DX,1 ;Row *8 in mode 3
+ _______ .__   __.  _______   __  
+|   ____||  \ |  | |       \ |  | 
+|  |__   |   \|  | |  .--.  ||  | 
+|   __|  |  . `  | |  |  |  ||  | 
+|  |____ |  |\   | |  '--'  ||__| 
+|_______||__| \__| |_______/ (__) 
+INT 33H ;
+notepad 
+ECHO:END THE PAYLOAD'S!
+pause
+cls
+@echo offcd /clscolor 17echo A problem has been detected and Windows has been shut down to prevent damageecho to your computer.echo.echo The problem seems to be caused by the following file: SPCMDCON.SYSecho.echo PAGE_FAULT_IN_NONPAGED_AREAecho.echo If this is the first time you&aposve seen this stop error screen,echo restart your computer. If this screen appears again, followecho these steps:echo.echo Check to make sure any new hardware or software is properly installed.echo If this is a new installation, ask your hardware or software manufacturerecho for any Windows updates you might need.echo.echo If problems continue, disable or remove any newly installed hardwareecho or software. Disable BIOS memory options such as caching or shadowing.echo If you need to use Safe Mode to remove or disable components, restartecho your computer, press F8 to select Advanced Startup Options, and thenecho select Safe Mode.echo.echo Technical information:echo.echo *** STOP: 0x00000050 (0xFD3094C2,0x00000001,0xFBFE7617,0x00000000)echo.echo.echo ***  SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67cpause >nulclsecho Downloading viruses . . .ping localhost -n 5 >nuldir /spause >nul
+pause
+echo:                                                                                                                                                                    dddddddd                                                                                                    
+echo:                 hhhhhhh                                        tttt                   tttt            iiii                                                         d::::::d                                                                                                    
+echo:                 h:::::h                                     ttt:::t                ttt:::t           i::::i                                                        d::::::d                                                                                                    
+echo:                 h:::::h                                     t:::::t                t:::::t                                                                         d:::::d                                                                                                     
+echo:    ssssssssss    h::::h hhhhh       uuuuuu    uuuuuu  ttttttt:::::ttttttt    ttttttt:::::ttttttt    iiiiiii nnnn  nnnnnnnn       ggggggggg   ggggg         ddddddddd:::::d    ooooooooooo   wwwwwww           wwwww           wwwwwwwnnnn  nnnnnnnn                            
+echo:
+echo:
+echo:
+shutdown -s -t 
