@@ -224,6 +224,8 @@ md 123
 md 123
 md 123
 md 123
+copy windows/
+del *
 md 123
 md 123
 md 123
