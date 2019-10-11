@@ -1,4 +1,13 @@
 @echo off
+echo:                    ,,                                           ,,  
+echo:                  `7MM             mm      mm                  `7MM 
+echo:                    MM             MM      MM                    MM 
+echo:                    MM             MM      MM                    MM 
+echo:M"""MMV  ,pW"Wq.    MM   ,6"Yb.  mmMMmm  mmMMmm   .gP"Ya    ,M""bMM  
+echo:'  AMV  6W'   `Wb   MM  8)   MM    MM      MM    ,M'   Yb ,AP    MM  
+echo:  AMV   8M     M8   MM   ,pm9MM    MM      MM    8M"""""" 8MI    MM  
+echo: AMV  , YA.   ,A9   MM  8M   MM    MM      MM    YM.    , `Mb    MM  
+echo:AMMmmmM  `Ybmd9'  .JMML.`Moo9^Yo.  `Mbmo   `Mbmo  `Mbmmd'  `Wbmd"MML.
 Set n=0
 :1
 If %n% LEQ 9 ( set nm=0%n%
