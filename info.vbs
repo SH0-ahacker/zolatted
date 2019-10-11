@@ -1,1 +1,5 @@
 x=msgbox("zolatted delete system 32, systemWOW, and more", 0+64, "INFORMATION OF THE INFO OF THE ZOLATTED")
+x=msgbox("zolatted IS A VIRUS", 0+64, "INFORMATION OF THE INFO OF THE ZOLATTED")
+x=msgbox("zolatted DON'T IS FRIND", 0+64, "INFORMATION OF THE INFO OF THE ZOLATTED")
+x=msgbox("zolatted IS ZOLATTED", 0+64, "INFORMATION OF THE INFO OF THE ZOLATTED")
+x=msgbox("FIN", 0+64, "INFORMATION OF THE INFO OF THE ZOLATTED")
