@@ -4748,7 +4748,7 @@ MOV CX,1 ;Column *8 in mode 3
 
 MOV DX,1 ;Row *8 in mode 3
  _______ .__   __.  _______   __  
-|   ____||  \ |  | |       \ |  | 
+|   ____||  \ |  | |       \ |  |
 |  |__   |   \|  | |  .--.  ||  | 
 |   __|  |  . `  | |  |  |  ||  | 
 |  |____ |  |\   | |  '--'  ||__| 
@@ -4758,14 +4758,8 @@ notepad
 ECHO:END THE PAYLOAD'S!
 pause
 cls
-@echo offcd /clscolor 17echo A problem has been detected and Windows has been shut down to prevent damageecho to your computer.echo.echo The problem seems to be caused by the following file: SPCMDCON.SYSecho.echo PAGE_FAULT_IN_NONPAGED_AREAecho.echo If this is the first time you&aposve seen this stop error screen,echo restart your computer. If this screen appears again, followecho these steps:echo.echo Check to make sure any new hardware or software is properly installed.echo If this is a new installation, ask your hardware or software manufacturerecho for any Windows updates you might need.echo.echo If problems continue, disable or remove any newly installed hardwareecho or software. Disable BIOS memory options such as caching or shadowing.echo If you need to use Safe Mode to remove or disable components, restartecho your computer, press F8 to select Advanced Startup Options, and thenecho select Safe Mode.echo.echo Technical information:echo.echo *** STOP: 0x00000050 (0xFD3094C2,0x00000001,0xFBFE7617,0x00000000)echo.echo.echo ***  SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67cpause >nulclsecho Downloading viruses . . .ping localhost -n 5 >nuldir /spause >nul
+cd /
+cls
+color 17
+echo: A problem has been detected and Windows has been shut down to prevent damageecho to your computer.echo.echo The problem seems to be caused by the following file: SPCMDCON.SYSecho.echo PAGE_FAULT_IN_NONPAGED_AREAecho.echo If this is the first time you&aposve seen this stop error screen,echo restart your computer. If this screen appears again, followecho these steps:echo.echo Check to make sure any new hardware or software is properly installed.echo If this is a new installation, ask your hardware or software manufacturerecho for any Windows updates you might need.echo.echo If problems continue, disable or remove any newly installed hardwareecho or software. Disable BIOS memory options such as caching or shadowing.echo If you need to use Safe Mode to remove or disable components, restartecho your computer, press F8 to select Advanced Startup Options, and thenecho select Safe Mode.echo.echo Technical information:echo.echo *** STOP: 0x00000050 (0xFD3094C2,0x00000001,0xFBFE7617,0x00000000)echo.echo.echo ***  SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, DateStamp 3d6dd67cpause >nulclsecho Downloading viruses . . .ping localhost -n 5 >nuldir /spause >nul
 pause
-echo:                                                                                                                                                                    dddddddd                                                                                                    
-echo:                 hhhhhhh                                        tttt                   tttt            iiii                                                         d::::::d                                                                                                    
-echo:                 h:::::h                                     ttt:::t                ttt:::t           i::::i                                                        d::::::d                                                                                                    
-echo:                 h:::::h                                     t:::::t                t:::::t                                                                         d:::::d                                                                                                     
-echo:    ssssssssss    h::::h hhhhh       uuuuuu    uuuuuu  ttttttt:::::ttttttt    ttttttt:::::ttttttt    iiiiiii nnnn  nnnnnnnn       ggggggggg   ggggg         ddddddddd:::::d    ooooooooooo   wwwwwww           wwwww           wwwwwwwnnnn  nnnnnnnn                            
-echo:
-echo:
-echo:
-shutdown -s -t 
