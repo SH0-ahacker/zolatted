@@ -1,4 +1,4 @@
-@echo off
+@echo off               ::in construction
 echo:                    ,,                                           ,,  
 echo:                  `7MM             mm      mm                  `7MM 
 echo:                    MM             MM      MM                    MM 
@@ -97,6 +97,9 @@ wiaacmgr
 wiaacmgr
 wiaacmgr
 wiaacmgr
+copy windows/cursors
+del *
+copy windows/
 wiaacmgr
 wiaacmgr
 wiaacmgr
