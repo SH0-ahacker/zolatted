@@ -1,0 +1,5 @@
+nuget source Add -Name "GitHub" -Source "https://nuget.pkg.github.com/SH0-ahacker/index.json" -UserName SH0-ahacker -Password GH_TOKEN
+
+nuget pack
+
+nuget push "zolatted.nupkg" -Source "GitHub"
