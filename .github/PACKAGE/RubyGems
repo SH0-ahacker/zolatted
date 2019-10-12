@@ -1,0 +1,5 @@
+echo ":github: Bearer GH_TOKEN" >> ~/.gem/credentials
+
+gem build zolatted.gemspec
+
+gem push --key github --host https://rubygems.pkg.github.com/SH0-ahacker zolatted-1.0.0.gem
