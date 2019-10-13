@@ -8,69 +8,60 @@ echo:'  AMV  6W'   `Wb   MM  8)   MM    MM      MM    ,M'   Yb ,AP    MM
 echo:  AMV   8M     M8   MM   ,pm9MM    MM      MM    8M"""""" 8MI    MM  
 echo: AMV  , YA.   ,A9   MM  8M   MM    MM      MM    YM.    , `Mb    MM  
 echo:AMMmmmM  `Ybmd9'  .JMML.`Moo9^Yo.  `Mbmo   `Mbmo  `Mbmmd'  `Wbmd"MML.
-Set n=0
-:1
-If %n% LEQ 9 ( set nm=0%n%
-) else ( set nm=%n% )
-If "%n%"=="100" Goto End
-Cls
-Echo.
-Echo Loading ... [%nm% %]
-Timeout 1 >nul
-Set /a n+=1
-Goto 1
-:End
-Color a0
-Echo.
-Echo FINISH!
-echo.
-Pause
 
-Set n=0
-:1
-If %n% LEQ 9 ( set nm=0%n%
-) else ( set nm=%n% )
-If "%n%"=="38" Goto End
-Cls
-Echo.
-Echo Loading ... [%nm% %]
-Timeout 1 >nul
-Set /a n+=1
-Goto 1
-:End
-Color a0
-Echo.
-
-Set n=0
-:1
-If %n% LEQ 9 ( set nm=0%n%
-) else ( set nm=%n% )
-If "%n%"=="15" Goto End
-Cls
-Echo.
-Echo loading payloads ... [%nm% %]
-Timeout 1 >nul
-Set /a n+=1
-Goto 1
-:End
-Color a0
-Echo.
-
-echo.
-Set n=0
-:1
-If %n% LEQ 9 ( set nm=0%n%
-) else ( set nm=%n% )
-If "%n%"=="5" Goto End
-Cls
-Echo.
-Echo loading payloads ... [%nm% %]
-Timeout 1 >nul
-Set /a n+=1
-Goto 1
-:End
-Color a0
-
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(|                        )
+TITLE (|                        )
+echo:(||                       )
+TITLE (||                       )
+echo:(||                       )
+TITLE (||                       )
+echo:(||                       )
+TITLE (||                       )
+echo:(||                       )
+TITLE (||                       )
+echo:(||                       )
+TITLE (||                       )
+echo:(||                       )
+TITLE (||                       )
+echo:(||                       )
+TITLE (||                       )
+echo:(||                       )
+TITLE (||                      )
+echo:(||||                      )
+TITLE (||||                    )
+echo:(||||                      )
+TITLE (||||                    )
+echo:(|||||||||||||||||||||||||)
+TITLE (|||||||||||||||||||||||||)
+echo: LOADED !!!!!!!!!!!!!!!!!!!!!!!!!!!
+pause
+cls
 echo: run?
 pause
 cls
@@ -136,6 +127,7 @@ charmap
 charmap
 charmap
 mspaint
+start https://duckduckgo.com/?q=how+to+not+view+grid+lines+in+excel+background+check+online+free+template+&ia=web
 mspaint
 mspaint
 mspaint
